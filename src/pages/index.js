@@ -28,6 +28,10 @@ const IndexPage = () => {
         </p>
         <p className="text-lg mb-8">
           Jump to:{" "}
+          <Link to="#support" className="underline">
+            {data.site.siteMetadata.city}
+          </Link>
+          ,{" "}
           <Link to="#restaurants" className="underline">
             restaurants
           </Link>
