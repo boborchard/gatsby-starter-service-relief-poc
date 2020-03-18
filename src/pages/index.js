@@ -71,11 +71,14 @@ const IndexPage = () => {
       </div>
 
       <div className="mb-10">
-        <h2 id="restaurants" className="text-xl font-bold">Support restaurants</h2>
+        <h2 id="restaurants" className="text-xl font-bold">
+          Support restaurants
+        </h2>
 
         <ul className="list-disc pl-6 mt-4">
           <li>
             <a
+              className="underline"
               href="https://squareup.com/gift/PE1YXZ53M6WRW/order"
               target="_blank"
               rel="noopener noreferrer"
@@ -88,11 +91,14 @@ const IndexPage = () => {
       </div>
 
       <div className="mb-10">
-        <h2 id="bars" className="text-xl font-bold">Support bar &amp; event staff</h2>
+        <h2 id="bars" className="text-xl font-bold">
+          Support bar &amp; event staff
+        </h2>
 
         <ul className="list-disc pl-6 mt-4">
           <li>
             <a
+              className="underline"
               href="https://www.gofundme.com/f/latona-staff-covid19-shutdown"
               target="_blank"
               rel="noopener noreferrer"
@@ -102,6 +108,7 @@ const IndexPage = () => {
           </li>
           <li>
             <a
+              className="underline"
               href="https://checkout.square.site/buy/NFAPA6E5MR2MKWRJ7LATPRAY"
               target="_blank"
               rel="noopener noreferrer"
@@ -112,6 +119,7 @@ const IndexPage = () => {
           </li>
           <li>
             <a
+              className="underline"
               href="https://republicofcider.com/online-store"
               target="_blank"
               rel="noopener noreferrer"
@@ -124,11 +132,14 @@ const IndexPage = () => {
       </div>
 
       <div className="mb-10">
-        <h2 id="services" className="text-xl font-bold">Support service businesses</h2>
+        <h2 id="services" className="text-xl font-bold">
+          Support service businesses
+        </h2>
 
         <ul className="list-disc pl-6 mt-4">
           <li>
             <a
+              className="underline"
               href="https://www.gofundme.com/f/help-cth-pet-sittersdog-walkers-during-covid19"
               target="_blank"
               rel="noopener noreferrer"
@@ -138,6 +149,7 @@ const IndexPage = () => {
           </li>
           <li>
             <a
+              className="underline"
               href="https://www.gofundme.com/f/savor-seattle-pike-place-market-COVID19"
               target="_blank"
               rel="noopener noreferrer"
